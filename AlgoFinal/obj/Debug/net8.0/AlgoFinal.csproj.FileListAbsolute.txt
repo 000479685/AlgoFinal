@@ -1,0 +1,14 @@
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\bin\Debug\net8.0\AlgoFinal.exe
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\bin\Debug\net8.0\AlgoFinal.deps.json
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\bin\Debug\net8.0\AlgoFinal.runtimeconfig.json
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\bin\Debug\net8.0\AlgoFinal.dll
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\bin\Debug\net8.0\AlgoFinal.pdb
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\AlgoFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\AlgoFinal.AssemblyInfoInputs.cache
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\AlgoFinal.AssemblyInfo.cs
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\AlgoFinal.csproj.CoreCompileInputs.cache
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\AlgoFinal.dll
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\refint\AlgoFinal.dll
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\AlgoFinal.pdb
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\AlgoFinal.genruntimeconfig.cache
+D:\Algorithms\Final\AlgoFinal\AlgoFinal\obj\Debug\net8.0\ref\AlgoFinal.dll
